@@ -7,9 +7,10 @@
 ---
 
 ## 🚀 About Me
-- 🔭 🚧 Project currently paused — updates will resume after my break. **Expensio** — an Expense Tracker App
-- 🌱 Learning **HTML, CSS, JavaScript & Tailwind CSS**
+- 🔭 Currently building: **Weather App** — real-time weather with forecast & geolocation
+- 🌱 Learning React.js — moving from Vanilla JS to component-based UI
 - 💡 I love turning UI designs into real working apps
+- 🛠️ Completed: **Expensio** Expense Tracker
 - 📍 Wardha, Maharashtra, India
 
 ---
@@ -18,16 +19,15 @@
 
 **Languages**
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
+</p>
 
 **Frameworks & Tools**
 
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind,react,git,github,vscode,figma&theme=dark" />
+</p>
 
 ---
 
@@ -36,6 +36,7 @@
 | Project | Description | Live |
 |---|---|---|
 | 💸 [Expensio](https://github.com/mayurdhanurkar/Expensio-Expense-Tracker) | Expense Tracker — HTML, Tailwind CSS & JS | [🔗 Live Demo](https://mayurdhanurkar.github.io/Expensio-Expense-Tracker) |
+| 🌤️ [Weather App](https://github.com/mayurdhanurkar/YOUR-WEATHER-REPO) | Real-time weather with forecast, geolocation & dynamic themes — Vanilla JS | [🔗 Live Demo](https://mayurdhanurkar.github.io/YOUR-WEATHER-REPO) |
 
 ---
 
