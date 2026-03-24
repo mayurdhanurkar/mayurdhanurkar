@@ -36,7 +36,7 @@
 | Project | Description | Live |
 |---|---|---|
 | 💸 [Expensio](https://github.com/mayurdhanurkar/Expensio-Expense-Tracker) | Expense Tracker — HTML, Tailwind CSS & JS | [🔗 Live Demo](https://mayurdhanurkar.github.io/Expensio-Expense-Tracker) |
-| 🌤️ [Weather App](https://github.com/mayurdhanurkar/YOUR-WEATHER-REPO) | Real-time weather with forecast, geolocation & dynamic themes — Vanilla JS | [🔗 Live Demo](https://mayurdhanurkar.github.io/YOUR-WEATHER-REPO) |
+| 🌤️ [Weather Now](https://github.com/mayurdhanurkar/Weather-Now-app) | Real-time weather with forecast, geolocation & dynamic themes — Vanilla JS | [🔗 Live Demo](https://mayurdhanurkar.github.io/Weather-Now-app) |
 
 ---
 
