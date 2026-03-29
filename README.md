@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, I am Mayur 👋🏽</h1>
 
 <p align="center">
-  I'm a passionate Frontend Developer who loves building real-world web applications.
+  I'm a passionate Frontend/Reactjs Developer who loves building real-world web applications.
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🔭 Currently building: **Weather App** — real-time weather with forecast & geolocation
+- 🔭 Currently building: **RemoteNest** — A React-based remote job board.
 - 🌱 Learning React.js — moving from Vanilla JS to component-based UI
 - 💡 I love turning UI designs into real working apps
 - 🛠️ Completed: **Expensio** Expense Tracker
