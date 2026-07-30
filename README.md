@@ -1,55 +1,95 @@
-<h1 align="center">Hi there, I am Mayur 👋🏽</h1>
+<h1 align="center">Hey, I'm Mayur Dhanurkar 👋</h1>
 
 <p align="center">
-  I'm a passionate Frontend/Reactjs Developer who loves building real-world web applications.
+  <b>Frontend Developer</b> &nbsp;·&nbsp; React & Tailwind CSS &nbsp;·&nbsp; Building real-world UI from scratch
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Tailwind+CSS+%7C+JavaScript;Building+real+apps%2C+not+just+tutorials;Context+API+%7C+Custom+Hooks+%7C+localStorage" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 🔭 Currently building: **RemoteNest** — A React-based remote job board.
-- 🌱 Learning React.js — moving from Vanilla JS to component-based UI
-- 💡 I love turning UI designs into real working apps
-- 🛠️ Completed: **Expensio** Expense Tracker
-- 📍 Wardha, Maharashtra, India
+## 🙋‍♂️ About Me
+
+- 🔥 I build **clean, responsive UIs** using React and Tailwind CSS
+- 🧠 Comfortable with **React Hooks, Context API, custom hooks, and component architecture**
+- 🌐 My projects go beyond tutorials — real logic, real persistence, real architecture
+- 📍 Based in Maharashtra, India
+- 🚀 Currently leveling up toward **Full Stack** with Node.js & MongoDB
 
 ---
 
-## 🛠️ My Skills
+## 🛠️ Tech Stack
 
 **Languages**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 </p>
 
-**Frameworks & Tools**
+**Frameworks & Libraries**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,react,git,github,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark" />
+</p>
+
+**Tools & Platforms**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
 </p>
 
 ---
 
-## 💼 My Projects
+## 💼 Projects
 
-| Project | Description | Live |
-|---|---|---|
-| 💸 [Expensio](https://github.com/mayurdhanurkar/Expensio-Expense-Tracker) | Expense Tracker — HTML, Tailwind CSS & JS | [🔗 Live Demo](https://mayurdhanurkar.github.io/Expensio-Expense-Tracker) |
-| 🌤️ [Weather Now](https://github.com/mayurdhanurkar/Weather-Now-app) | Real-time weather with forecast, geolocation & dynamic themes — Vanilla JS | [🔗 Live Demo](https://mayurdhanurkar.github.io/Weather-Now-app) |
+| # | Project | Tech | What It Demonstrates |
+|---|---------|------|---------------------|
+| 🌙 | [Theme Toggle Dashboard](https://github.com/mayurdhanurkar/Theme_toggle-dashboard) | React 19, Tailwind CSS | Context API, custom hook, OS dark mode detection, localStorage |
+| ✅ | [iTask — Todo List App](https://github.com/mayurdhanurkar/Todo_list-app) | React, Tailwind CSS | CRUD, useState/useEffect, localStorage persistence, uuid |
+| 🐦 | [Twitter/X Clone](https://github.com/mayurdhanurkar/Twitter-Clone-Tailwind) | Tailwind CSS, Vite | Utility-first CSS, responsive layout, component structure |
+| 🎵 | [Spotify Clone](https://github.com/mayurdhanurkar/Spotify_Clone) | HTML, CSS, Vanilla JS | Browser Audio API, fetch, DOM manipulation, responsive CSS |
+| 💼 | [DevJobs Board](https://github.com/mayurdhanurkar/Devjobs-Board) | React, JavaScript | Filtering, component-based UI, React props & state |
+| 💸 | [Expensio — Expense Tracker](https://github.com/mayurdhanurkar/Expensio-Expense-Tracker) | HTML, Tailwind, JS | [🔗 Live](https://mayurdhanurkar.github.io/Expensio-Expense-Tracker) \| DOM logic, local state |
+| 🌤️ | [Weather Now](https://github.com/mayurdhanurkar/Weather-Now-app) | Vanilla JS, CSS | [🔗 Live](https://mayurdhanurkar.github.io/Weather-Now-app) \| API integration, geolocation, dynamic themes |
+| ⚡ | [Mini Projects](https://github.com/mayurdhanurkar/Mini_Projects) | JavaScript | Small focused JS experiments and UI components |
+
+---
+
+## 🧩 What I Can Build
+
+```
+✅ Responsive layouts with Tailwind CSS (mobile-first)
+✅ React apps with hooks (useState, useEffect, useRef, useContext)
+✅ Global state with Context API — no prop drilling
+✅ Custom reusable hooks (e.g. useTheme, useFetch)
+✅ CRUD operations with localStorage persistence
+✅ API integration (fetch, async/await, error handling)
+✅ Dark mode with OS preference detection (window.matchMedia)
+✅ UI clones of real products (Twitter, Spotify)
+```
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayurdhanurkar&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mayurdhanurkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurdhanurkar&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurdhanurkar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayurdhanurkar&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<p align="center">⭐ Star my repos if you find them helpful!</p>
+<p align="center">
+  <i>"I don't just follow tutorials — I build things, break them, and figure out why."</i>
+</p>
+
+<p align="center">⭐ Star my repos if you find them useful!</p>
