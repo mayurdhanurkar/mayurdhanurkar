@@ -1,11 +1,11 @@
 <h1 align="center">Hey, I'm Mayur Dhanurkar 👋</h1>
 
 <p align="center">
-  <b>Frontend Developer</b> &nbsp;·&nbsp; React & Tailwind CSS &nbsp;·&nbsp; Building real-world UI from scratch
+  <b>Full Stack Developer</b> &nbsp;·&nbsp; React, Next.js & Node.js &nbsp;·&nbsp; Building real-world apps from scratch
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Tailwind+CSS+%7C+JavaScript;Full+Stack+%7C+Express.js+%7C+MongoDB;Building+real+apps%2C+not+just+tutorials;Context+API+%7C+Custom+Hooks+%7C+REST+API" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Tailwind+CSS;Express.js+%7C+MongoDB+%7C+REST+API;Next.js+%7C+NextAuth+%7C+Razorpay;Building+real+apps%2C+not+just+tutorials" alt="Typing SVG" />
 </p>
 
 ---
@@ -16,7 +16,7 @@
 - 🧠 Comfortable with **React Hooks, Context API, custom hooks, and component architecture**
 - 🌐 My projects go beyond tutorials — real logic, real persistence, real architecture
 - 📍 Based in Maharashtra, India
-- 🚀 Currently leveling up toward **Full Stack** with Node.js & MongoDB
+- 🚀 Building full-stack apps with **Next.js, Node.js, MongoDB**, OAuth login, and payment integrations
 
 ---
 
@@ -31,21 +31,22 @@
 **Frameworks & Libraries**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,nodejs,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,nodejs,express&theme=dark" />
 </p>
 
 **Tools & Platforms**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vercel,vscode,figma&theme=dark" />
 </p>
 
 ---
 
-## ⭐ Featured Project
+## ⭐ Featured Projects
 
 | Project | Stack | What Makes It Special |
 |---------|-------|----------------------|
+| ☕ [Get Me A Coffee — Patreon Clone](https://github.com/mayurdhanurkar/GetMeACoffee-PatreonClone) | Next.js 16 · React 19 · MongoDB · NextAuth · Razorpay · Tailwind 4 | [🔗 Live](https://get-me-a-coffee-patreon-clone.vercel.app/) \| **Full-stack app** with Google and GitHub OAuth login, Server Actions, public creator pages, and a Razorpay checkout (test mode) with server-side signature verification. Deployed on Vercel. |
 | 🔐 [PassOPP — Password Manager](https://github.com/mayurdhanurkar/PassOPP_Password-Manager) | React 19 · Express.js · MongoDB · Tailwind | **Full-stack CRUD app** — real MongoDB database, REST API (GET / POST / DELETE / DELETE all), UUID-based entries, show/hide toggle, copy to clipboard, react-toastify. Fully functional on first commit — something I personally use day-to-day. |
 
 ---
@@ -54,6 +55,7 @@
 
 | # | Project | Tech | What It Demonstrates |
 |---|---------|------|---------------------|
+| ☕ | [Get Me A Coffee](https://github.com/mayurdhanurkar/GetMeACoffee-PatreonClone) | Next.js 16, MongoDB, NextAuth, Razorpay | [🔗 Live](https://get-me-a-coffee-patreon-clone.vercel.app/) \| App Router, Server Actions, OAuth, payment verification |
 | 💸 | [Currency Converter](https://github.com/mayurdhanurkar/Mini_Projects/tree/main/04-currency-converter) | React 19, Tailwind, Vite | Custom hook `useCurrencyInfo`, live API (no key), swap logic, controlled inputs |
 | 🔑 | [Password Generator](https://github.com/mayurdhanurkar/Mini_Projects/tree/main/03-password-generator) | React 19, Tailwind, Vite | useCallback, useRef, useEffect, slider controls |
 | 🌙 | [Theme Toggle Dashboard](https://github.com/mayurdhanurkar/Theme_toggle-dashboard) | React 19, Tailwind CSS | Context API, custom hook, OS dark mode detection, localStorage |
@@ -74,8 +76,12 @@
 ✅ React apps with hooks (useState, useEffect, useRef, useContext)
 ✅ Global state with Context API — no prop drilling
 ✅ Custom reusable hooks (e.g. useTheme, useCurrencyInfo)
+✅ Next.js App Router apps with Server Actions and API routes
+✅ OAuth login (Google, GitHub) with NextAuth
+✅ Payment integration with Razorpay (test mode) and server-side verification
 ✅ Full-stack apps with Express.js REST APIs + MongoDB
 ✅ CRUD operations with real database persistence
+✅ Deployment on Vercel with environment variables
 ✅ API integration (fetch, async/await, error handling)
 ✅ Dark mode with OS preference detection (window.matchMedia)
 ✅ UI clones of real products (Twitter, Spotify)
